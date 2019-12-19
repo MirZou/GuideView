@@ -1,0 +1,5 @@
+com.blog.www.guideview
+int dimen activity_vertical_margin 0x7f080001
+int mipmap ic_launcher 0x7f110001
+int string action_settings 0x7f150001
+int string app_name 0x7f150002

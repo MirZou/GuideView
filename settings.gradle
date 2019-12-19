@@ -1,0 +1,2 @@
+include ':app', ':guideview'
+rootProject.name='GuideView'
